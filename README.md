@@ -54,14 +54,14 @@ class Guideline {
 
 ### 1.1 Enumerations
 
-Use UpperCamelCase for enumeration values:
+Use lowerCamelCase for enumeration values:
 
 ```swift
 enum Shape {
-    case Rectangle
-    case Square
-    case Triangle
-    case Circle
+    case rectangle
+    case square
+    case trianle
+    case circle
 }
 ```
 
